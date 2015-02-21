@@ -1,5 +1,5 @@
 body {
-  font: 10px sans-serif;
+  font: 11px sans-serif;
 }
 
 .axis path,
@@ -15,6 +15,6 @@ body {
 
 .line {
   fill: none;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke: #990000;
+  stroke-width: 1.7px;
 }
